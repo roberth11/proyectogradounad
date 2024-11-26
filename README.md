@@ -1,6 +1,6 @@
 # proyectogradounad
 
-#Url figma: https://github.com/roberth11/proyectogradounad.git
+# Url figma: https://github.com/roberth11/proyectogradounad.git
 
 
 
