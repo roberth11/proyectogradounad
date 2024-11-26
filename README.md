@@ -1,6 +1,6 @@
 # proyectogradounad
 
-# Url figma: https://github.com/roberth11/proyectogradounad.git
+# Url figma: https://www.figma.com/proto/cPq0TUwUj1ib4rizASnq27/S.A.U.R.?type=design&node-id=27-753&t=IVAlA5hSKvXZe5WJ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
 
 
 
